@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout <<"This is a new file" << std::endl;
+    std::cout <<"Welcome to my world of programming lego blocks" << std::endl;
     return 0;
 }

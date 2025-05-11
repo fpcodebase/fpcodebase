@@ -1,4 +1,6 @@
-# This folder will contain all C++ code
+# This folder will contain all my C++ code
 
-Test
+C++ is a derivative for C and the first OOP language.
+
+
 

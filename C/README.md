@@ -1,4 +1,4 @@
 # This folder will contain all C code
 
-Test
+C is a procedural, strongly typed language.
 
